@@ -13,7 +13,8 @@ I wanted the design of this project to be simple yet attention-grabbing. The col
 
 The biggest decision of this project by far was deciding to keep it written in ReactJS. Although the prompt clearly states to avoid any use of libraries, I felt that given the time constraints and the desire to deliver the best possible example of my abilities, I chose to stick with the workflow and framework I know best. However, I believe the relative simplicity of the project allows it to still be entirely legible to someone unfamiliar with ReactJS
 
-The images are sourced from an API server I hosted on a seperate heroku remote, found here https://tranquil-hollows-62149.herokuapp.com/api/images
+The images are sourced from an API server I hosted on a seperate heroku remote:
+https://tranquil-hollows-62149.herokuapp.com/api/images
 
 ## Areas for future improvement
 
