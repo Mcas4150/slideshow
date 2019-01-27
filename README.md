@@ -7,13 +7,13 @@ http://mikecassidyslideshow.herokuapp.com/
 
 ## Design Decisions
 
-I wanted the design of this project to be simple yet attention-grabbing. The color palette was inspired by military grey and warning labels, colors which for some reason appeal to me. I added some slight animation to the buttons, and made the project mobile-friendly
+I wanted the design of this project to be simple yet attentive. The color palette was inspired by military grey and warning labels. I also  added some slight animation to the buttons, and made the project mobile-friendly
 
 ## Development Decisions
 
-The biggest decision of this project by far was deciding to keep it written in ReactJS. Although the prompt clearly states to avoid any use of libraries, I felt that given the time constraints and the desire to deliver the best possible example of my abilities, I chose to stick with the workflow and framework I know best. However, I believe the relative simplicity of the project allows it to still be entirely legible to someone unfamiliar with ReactJS
+The biggest decision of this project was probably choosing to use ReactJS over vanilla javascript. Although the prompt forbid use of libraries, ReactJS was also one of the desired modern framework skills for the position. Since most of my recent work has been in react, its use delivered a better project given the time constraints. However, I believe the project architecture is still entirely readable
 
-The images are sourced from an API server I hosted on a seperate heroku remote:
+The images are sourced from an API server I hosted on a seperate heroku server:
 https://tranquil-hollows-62149.herokuapp.com/api/images
 
 ## Areas for future improvement
